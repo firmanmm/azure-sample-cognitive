@@ -1,0 +1,16 @@
+{
+    "name": "dell/azure-simple-cognitive",
+    "authors": [
+        {
+            "name": "Rendoru",
+            "email": "maulana.firman56@gmail.com"
+        }
+    ],
+    "require": {
+        "microsoft/azure-storage-blob": "*",
+        "microsoft/azure-storage-table": "*",
+        "microsoft/azure-storage-queue": "*",
+        "microsoft/azure-storage-file": "*",
+        "vlucas/phpdotenv": "^3.4"
+    }
+}
